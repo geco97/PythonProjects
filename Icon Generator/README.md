@@ -24,8 +24,8 @@ A Python-based interactive icon generator that creates icons with various shapes
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/geco97/PythonProjects
+   cd PythonProjects/Icon Generator
    ```
 
 2. Install dependencies:
